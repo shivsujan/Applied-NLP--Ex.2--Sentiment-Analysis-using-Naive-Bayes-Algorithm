@@ -1,0 +1,1 @@
+# Applied-NLP--Ex.2--Sentiment-Analysis-using-Naive-Bayes-Algorithm
